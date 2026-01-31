@@ -5,6 +5,12 @@ public class App {
     System.out.println("Hello World!");
     System.out.println("Testing Git Commit");
     System.out.println("Second Commit");
-    
+        
+  }
+  
+  public void thirdcommit()
+  {
+	  
+	  System.out.println("Third commit method");
   }
 }
